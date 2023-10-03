@@ -1,37 +1,63 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Koushani Chakraarty",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "koushani.chakrabarty@gmail.com",
+    "phone": "+17164005247",
+    "url": "https://KC-decoder.github.io/",
+    "summary": "Indian Computer Scientist seeking to leverage her Machine Learning skills in various applicable industries",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "",
+      "city": "Buffalo",
       "countryCode": "US",
-      "region": "California"
+      "region": "New York"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
-  },
+    "profiles": "",
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "SAIR Lab, University of Buffalo",
+      "position": "Researcher",
+      "url": "https://sairlab.org/",
+      "startDate": "2023-06-01",
+      "endDate": "",
+      "summary": "Developing an end to end RL model for payload flight in quadcopters.",
       "highlights": [
-        "Relativity"
+        "Reinforcement Learning",
+        "Robotics",
+        "UAV"
+    ]
+    },
+    {
+      "name": "CERN & Tata Innstitute of Fundamental Research ",
+      "position": "Research Intern",
+      "url": "",
+      "startDate": "2023-06-01",
+      "endDate": "2022-06-01",
+      "summary": "Developed code to parallelise Data Collection in the Allen Experiment at the Large Hadron Collider in Geneva, Switzerland",
+      "highlights": [
+        "Large Hadron Collider Phase 2 experiment"
+    ]
+    },
+    {
+      "name": "University at Buffalo - SUNY",
+      "position": "Research Intern",
+      "url": "",
+      "startDate": "2020-05-31",
+      "endDate": "2021-01-01",
+      "summary": "Conducted research on Bayesian Network Structure Learning Algorithms",
+      "highlights": []
+    },
+    {
+      "name": "Tata Consultancy Services",
+      "position": "Associate Systems Engineer",
+      "url": "",
+      "startDate": "2015-07-27",
+      "endDate": "2017-07-28",
+      "summary": "Developer of Applications for Telecommunications Clients",
+      "highlights": [
+        "Software Developer"
       ]
     }
   ],
