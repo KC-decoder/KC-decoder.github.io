@@ -66,24 +66,26 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="hhttps://pypose.org/">PyPose</a>
+      year: 2023-now
+      description: Pypose is a Differential Robotics Library with physics based optimization.
 
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Reinforcement Learning.
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Reinforcement Learning in Finance.
+        - Reinforcement Learning in Robotics.
+        - Reinforcement Learning in Flight and UAV control
+    - title: Sentiment Analysis.
       items:
-        - Description 1.
-        - Description 2.
+        - Large Language Models.
+        - Open AI's Transformers module.
+        - Applications of LLMs in research
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Indian Classical Music, Reading, Cooking.
