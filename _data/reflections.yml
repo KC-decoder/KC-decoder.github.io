@@ -1,20 +1,10 @@
 
-- title: CSE-676
+- title: Reflections on select Electrical Engineering Courses 
   type: time_table
   contents:
-    - title: MS. Computer Science
-      institution: University of Buffalo, Buffalo, New York, USA
-      year: 2023
+    - title: CSE-676 Deep Learning
+      department: Computer Science, University of Buffalo, Buffalo, New York, USA
+      session: Summer 2023
       description:
         - Specialization in Artificial Intelligence.
-        
-    - title: MS. Electrical Engineering
-      institution: University of Buffalo, Buffalo, New York, USA
-      year: 2020
-      description:
-        - Specialization in Wireless Communications.
-
-    - title: B.Tech. Electronics and Communications Engineering
-      institution: West bengal University of Technology, Kolkata, West Bengal, India.
-      year: 2015
 
