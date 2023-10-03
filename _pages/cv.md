@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 4
 cv_pdf: Koushani_Chakrabarty.pdf
-description: This is a description of the page. You can modify it in 'pages/_cv.md'. You can also change or remove the top pdf download button.
+description: This section describes my career in detail. Please find a copy of my CV from the link above
 toc:
   sidebar: left
 ---

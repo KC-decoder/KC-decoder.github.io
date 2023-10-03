@@ -21,10 +21,10 @@
       institution: University of Buffalo, Buffalo, New York, USA
       year: 2020
       description:
-        - Specialization in Artificial Intelligence.
+        - Specialization in Wireless Communications.
 
     - title: B.Tech. Electronics and Communications Engineering
-      institution: West bengal University of Technology, Kolkata, West Bengal, India
+      institution: West bengal University of Technology, Kolkata, West Bengal, India.
       year: 2015
 
 - title: Experience
@@ -66,7 +66,7 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="hhttps://pypose.org/">PyPose</a>
+    - title: <a href="https://pypose.org/">PyPose</a>
       year: 2023-now
       description: Pypose is a Differential Robotics Library with physics based optimization.
 
