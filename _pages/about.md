@@ -9,7 +9,6 @@ profile:
   image: koushani.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>+17164005247</p>
     <p>Buffalo, New York</p>
 
 news: false  # includes a list of news items
