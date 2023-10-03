@@ -19,8 +19,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my corner of the digital universe! I'm Koushani Chakrabarty, a seasoned professional with over 6 years of combined experience in academia and industry. My journey has been an exciting blend of software development, reinforcement learning, robotics, machine learning, and Natural Language Processing.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My career has seen me dive into fascinating projects, from developing cutting-edge machine learning models for sentiment analysis and developing reinforcement learning algorithms for UAVs to optimizing workplace environments using IoT and reinforcement learning. I'm on a constant quest for knowledge and thrive on sharing insights with my peers, all the while fostering a world-class engineering culture.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside the tech realm, I'm also deeply passionate about Indian Classical Singing, with over 27 years of experience in this art form. When I'm not exploring the limitless possibilities of technology, you'll find me harmonizing the traditional melodies of India.
+
+Join me on this multifaceted journey as we delve into the ever-evolving landscape of technology, innovation, and Art.
