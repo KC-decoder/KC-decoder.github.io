@@ -1,21 +1,37 @@
 ---
 layout: default
+title: Reflections
 ---
 
 <div class="post">
   <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
+    <h1 class="post-title">CSE-676</h1>
   </header>
 
   <article>
-    <div class="reflections">
-      {% for reflection in site.data.reflections %}
-        <div class="reflection">
-          <h2 class="reflection-title">{{ reflection.title }}</h2>
-          <p class="reflection-date">{{ reflection.date }}</p>
-          <p class="reflection-content">{{ reflection.content }}</p>
-        </div>
+    <div class="cv">
+      {% for entry in site.data.reflections %}
+        {% if entry.title == "CSE-676" %}
+          {% if entry.type == "time_table" %}
+            <h2 class="section-title">Education</h2>
+            <ul>
+              {% for education_entry in entry.contents %}
+                <li>
+                  <h3>{{ education_entry.title }}</h3>
+                  <p>{{ education_entry.institution }}</p>
+                  <p>{{ education_entry.year }}</p>
+                  <p>{{ education_entry.description[0] }}</p>
+                </li>
+              {% endfor %}
+            </ul>
+          {% endif %}
+        {% endif %}
       {% endfor %}
     </div>
   </article>
 </div>
+
+
+
+
+

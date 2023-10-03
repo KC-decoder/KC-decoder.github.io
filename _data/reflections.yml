@@ -1,16 +1,20 @@
-- title: Electrical Engineering Reflections
-  type: map
-  
 
-- title: CSE-676 (Deep Learning)
-  type: paragraph
-  
+- title: CSE-676
+  type: time_table
+  contents:
+    - title: MS. Computer Science
+      institution: University of Buffalo, Buffalo, New York, USA
+      year: 2023
+      description:
+        - Specialization in Artificial Intelligence.
+        
+    - title: MS. Electrical Engineering
+      institution: University of Buffalo, Buffalo, New York, USA
+      year: 2020
+      description:
+        - Specialization in Wireless Communications.
 
-- title: CSE-590 (Computer Architecture)
-  type: paragraph
+    - title: B.Tech. Electronics and Communications Engineering
+      institution: West bengal University of Technology, Kolkata, West Bengal, India.
+      year: 2015
 
-  - title: EE-590 (Consumer Optoelectronics)
-  type: paragraph
-
-  - title: EE-541 (Special Topics Machine Learning in Wireless Communications)
-  type: paragraph
