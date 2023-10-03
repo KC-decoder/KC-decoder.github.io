@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://sairlab.org/'>Affiliated with SAIR lab at UB</a>. 
 
 profile:
   align: right
