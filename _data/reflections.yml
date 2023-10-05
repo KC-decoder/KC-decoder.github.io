@@ -1,11 +1,11 @@
 
-- title: Reflections on select Electrical Engineering Courses 
+- title: CSE-676
   type: time_table
   contents:
-    - title: CSE-676 Deep Learning
+    - title: Deep Learning
       department: Computer Science, University of Buffalo, Buffalo, New York, USA
       session: Summer 2023
       description:
-        - Specialization in Artificial Intelligence.
-        
+        - The Deep Learning course taught by Dr Alina Vereshchaka at UB's Computer Science Department was truely a turning point in my academic journey. Where introduction to Machine Learning helped lay down the statistical and mathematical foundations of Machine Learning and introduced to some the earliest algorithms in the field, Deep Learning helped me get acquainted with the current state of the art algorithms and their many applications.
+
 
