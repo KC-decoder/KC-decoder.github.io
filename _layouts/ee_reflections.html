@@ -1,37 +1,37 @@
 ---
 layout: default
-title: Reflections
+title: EE Reflections
 ---
-
+<!-- _layouts/cv.html -->
 <div class="post">
+
   <header class="post-header">
-    <h1 class="post-title">CSE-676</h1>
+    <h1 class="post-title">{{ page.title }} {% if page.ee_reflections_pdf %}<a href="{{ page.ee_reflections_pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>{% endif %}</h1>
+    {% if page.description %}<p class="post-description">{{ page.description }}</p>{% endif %}
   </header>
 
   <article>
     <div class="cv">
       {% for entry in site.data.reflections %}
-        {% if entry.title == "CSE-676" %}
-          {% if entry.type == "time_table" %}
-            <h2 class="section-title">Summer 2023</h2>
-            <ul>
-              {% for education_entry in entry.contents %}
-                <li>
-                  <h3>{{ education_entry.title }}</h3>
-                  <p>{{ education_entry.department }}</p>
-                  <p>{{ education_entry.session }}</p>
-                  <p>{{ education_entry.description[0] }}</p>
-                </li>
-              {% endfor %}
-            </ul>
+        <a class="anchor" id="{{ entry.title }}"></a>
+        <div class="card mt-3 p-3">
+          <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
+          <div>
+          {% if entry.type == "list" %}
+            {% include cv/list.html %}
+          {% elsif entry.type == "map" %}
+            {% include cv/map.html %}
+          {% elsif entry.type == "nested_list" %}
+            {% include cv/nested_list.html %}
+          {% elsif entry.type == "time_table" %}
+            {% include cv/time_table.html %}
+          {% elsif entry.type == "list_groups" %}
+            {% include cv/list_groups.html %}
+          {% else %}
+            {{ entry.contents }}
           {% endif %}
-        {% endif %}
+          </div>
+        </div>
       {% endfor %}
-    </div>
+      </div>
   </article>
-</div>
-
-
-
-
-
