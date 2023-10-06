@@ -1,7 +1,7 @@
 ---
 layout: ee_reflections
 permalink: /reflections/
-title: EE Reflections
+title: REFLECTIONS
 nav: true
 nav_order: 5
 

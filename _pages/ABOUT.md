@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: ABOUT
 permalink: /
 subtitle: <a href='https://sairlab.org/'>Affiliated with SAIR lab at UB</a>. 
 
