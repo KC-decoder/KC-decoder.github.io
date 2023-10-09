@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://KC-decoder.github.io/al-folio/sitemap.xml
+Sitemap: https://KC-decoder.github.io/sitemap.xml
