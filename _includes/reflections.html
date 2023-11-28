@@ -1,0 +1,30 @@
+<!-- _includes/reflections.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  {% if reflection.redirect -%}
+  <a href="{{ reflection.redirect }}">
+  {%- else -%}
+  <a href="{{ reflection.url | relative_url }}">
+  {%- endif %}
+    <div class="card hoverable">
+      {%- if reflection.img %}
+      {%- include figure.html
+        path=reflection.img
+        alt="reflection thumbnail" -%}
+      {%- endif %}
+      <div class="card-body">
+        <h2 class="card-title text-lowercase">{{ reflection.title }}</h2>
+        <p class="card-text">{{ reflection.description }}</p>
+        <div class="row ml-1 mr-1 p-0">
+          {%- if reflection.link -%}
+          <div class="external-link-icon">
+            <div class="icon" data-toggle="tooltip" title="Read More">
+              <a href="{{ reflection.link }}"><i class="fas fa-external-link-alt"></i></a>
+            </div>
+          </div>
+          {%- endif %}
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
