@@ -1,0 +1,36 @@
+<!-- _includes/reflections_horizontal.html -->
+<div class="card-item row">
+    {%- if reflection.redirect -%}
+    <a href="{{ reflection.redirect }}">
+    {%- else -%}
+    <a href="{{ reflection.url | relative_url }}">
+    {%- endif -%}
+      <div class="card hoverable">
+        <div class="row g-0">
+          {%- if reflection.img -%}
+          <div class="card-img col-md-6">
+            {% include figure.html path=reflection.img alt="reflection thumbnail" %}
+          </div>
+          <div class="col-md-6">
+          {%- else -%}
+          <div class="col-md-12">
+          {%- endif -%}
+            <div class="card-body">
+              <h3 class="card-title text-lowercase">{{ reflection.title }}</h3>
+              <p class="card-text">{{ reflection.description }}</p>
+              <div class="row ml-1 mr-1 p-0">
+                {%- if reflection.additional_link -%}
+                <div class="additional-link-icon">
+                  <div class="icon" data-toggle="tooltip" title="More Information">
+                    <a href="{{ reflection.additional_link }}"><i class="fas fa-info-circle"></i></a>
+                  </div>
+                </div>
+                {%- endif -%}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </a>
+  </div>
+  
