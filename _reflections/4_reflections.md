@@ -1,10 +1,10 @@
 ---
 layout: page
-title: CSE-574 
-description: INTRODUCTION TO MACHINE LEARNING WITH DR WEN DONG
+title: EE-590
+description: CONSUMER OPTOELECTRONICS WITH DR PING-CHIN CHENG
 img: assets/img/cod.jpeg
-redirect: https://excited-twister-dba.notion.site/CSE-574-b0f3b8131b7a40c1b1f491db55509dd9?pvs=4
-importance: 4
+redirect: https://excited-twister-dba.notion.site/EE-590-1d0e4a3a595d4e058d78a3879d2a1588?pvs=4
+importance: 3
 category: work
 related_publications: 
 ---
