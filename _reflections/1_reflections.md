@@ -3,7 +3,7 @@ layout: page
 title: EE-598 
 description: RESEARCH PROJECT WITH DR SEYYEDALI HOSSAINALIPOUR
 img: assets/img/cod.jpeg
-redirect: https://excited-twister-dba.notion.site/March-20-2024-7f1fa199e5fa40a6a25862f3a87dbb9b?pvs=4
+redirect: https://excited-twister-dba.notion.site/EE-598-7f1fa199e5fa40a6a25862f3a87dbb9b?pvs=4
 importance: 1
 category: work
 related_publications: 

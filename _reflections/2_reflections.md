@@ -1,9 +1,9 @@
 ---
 layout: page
-title: GAME REVIEW APPLICATION 
-description: TERM PROJECT FOR CSE-589
+title: EE-541
+description: MACHINE LEARNING IN WIRELESS COMMUNICATIONS WITH DR SEYYEDALI HOSSAINALIPOUR
 img: assets/img/cod.jpeg
-redirect: https://github.com/KC-decoder/GAME-REVIEWS-ALGO
+redirect: https://excited-twister-dba.notion.site/EE-541-e06dc846b8d74c8680f40bb09edd1cad?pvs=4
 importance: 2
 category: work
 related_publications: 
