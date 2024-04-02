@@ -614,6 +614,10 @@ footer.sticky-bottom {
     border-radius: 10px;
   }
 
+  .grid {
+    display: block; 
+  }
+
   h2.category {
     color: var(--global-divider-color);
     border-bottom: 1px solid var(--global-divider-color);
