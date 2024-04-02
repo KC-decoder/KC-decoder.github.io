@@ -591,15 +591,11 @@ footer.sticky-bottom {
     }
   }
   
+  
   .card {
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-  }
-
-  .card img {
-    width: 100%; 
-    height: 200px; 
-    object-fit: cover; 
-    border-radius: 10px;
+    img {
+      width: 100%;
+    }
   }
 
   .card-item {
