@@ -6,7 +6,7 @@ description: A collection of personal reflections and insights.
 nav: true
 nav_order: 3
 display_categories: [personal, professional]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/reflections.md -->
