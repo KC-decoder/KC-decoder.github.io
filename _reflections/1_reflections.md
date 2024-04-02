@@ -1,6 +1,6 @@
 ---
 layout: page
-title: INDIVIDUAL PROBLEMS 
+title: EE-598 
 description: RESEARCH PROJECT WITH DR SEYYEDALI HOSSAINALIPOUR
 img: assets/img/cod.jpeg
 redirect: https://excited-twister-dba.notion.site/March-20-2024-7f1fa199e5fa40a6a25862f3a87dbb9b?pvs=4
