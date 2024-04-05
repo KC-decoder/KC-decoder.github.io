@@ -1,7 +1,7 @@
 ---
 layout: page
 title: EE-541
-description: MACHINE LEARNING IN WIRELESS COMMUNICATIONS WITH DR SEYYEDALI HOSSAINALIPOUR
+description: MACHINE LEARNING IN WIRELESS COMMUNICATIONS
 img: assets/img/wireless.jpeg
 redirect: https://excited-twister-dba.notion.site/EE-541-e06dc846b8d74c8680f40bb09edd1cad?pvs=4
 importance: 2

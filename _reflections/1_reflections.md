@@ -1,7 +1,7 @@
 ---
 layout: page
 title: EE-598 
-description: RESEARCH PROJECT WITH DR SEYYEDALI HOSSAINALIPOUR
+description: RESEARCH PROJECT WITH 
 img: assets/img/brain_3d.jpeg
 redirect: https://excited-twister-dba.notion.site/EE-598-7f1fa199e5fa40a6a25862f3a87dbb9b?pvs=4
 importance: 1
