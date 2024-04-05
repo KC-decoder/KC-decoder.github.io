@@ -2,7 +2,7 @@
 layout: page
 title: CSE-574 
 description: INTRODUCTION TO MACHINE LEARNING WITH DR WEN DONG
-img: assets/img/perceptron.jpeg
+img: assets/img/AI.jpeg
 redirect: https://excited-twister-dba.notion.site/CSE-574-b0f3b8131b7a40c1b1f491db55509dd9?pvs=4
 importance: 3
 category: work
