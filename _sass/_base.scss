@@ -617,7 +617,7 @@ footer.sticky-bottom {
   
   .grid-sizer,
   .grid-item {
-    flex: 1 0 300px; 
+    flex: 1 0 100%; 
     display: flex;
     flex-direction: column;
     margin-bottom: 10px;
