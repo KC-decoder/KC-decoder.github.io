@@ -596,6 +596,11 @@ footer.sticky-bottom {
       width: 100%;
       height: 200px;
       object-fit: cover;
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
     }
   }
 
@@ -610,13 +615,12 @@ footer.sticky-bottom {
   }
 
   .grid {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px; 
-    height: 500px; /* Adjust the height as needed */
-    overflow-y: scroll; /* Adds vertical scrolling */
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 10px;
   }
   
+
   .grid-sizer,
   .grid-item {
     flex: 1 0 100%; 
@@ -626,9 +630,15 @@ footer.sticky-bottom {
     border-radius: 10px;
     max-width: 100;
     overflow: hidden;
+    position: relative;
   }
 
-
+  .grid-item::before {
+    content: '';
+    display: block;
+    padding-top: 100%; /* The percentage of padding-top is the aspect ratio */
+  }
+  
   h2.category {
     color: var(--global-divider-color);
     border-bottom: 1px solid var(--global-divider-color);
