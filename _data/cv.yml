@@ -47,7 +47,7 @@
 
 - title: Researcher
       institution: Gradient Lab, Department of Electrical Engineering, University at Buffalo <a href="https://sites.google.com/view/gradient-lab>Gradient Lab</a>
-      year: 2024 - Present
+      year: 2023 - Present
       description:
         - Developing a multimodal model combining EEG and spectrogram data for seizure classification.
         - Applying Diffusion Models for EEG data augmentation and evaluating their impact on multimodal model performance.
