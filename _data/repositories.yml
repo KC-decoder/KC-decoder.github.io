@@ -2,7 +2,7 @@ github_users:
   - KC-decoder
 
 github_repos:
+  - KC-Decoder/MRI-K-space-Reconstruction
+  - KC-decoder/ Multimodal-Brain-Pattern-Identification_XAI
   - KC-decoder/Behavioral_Cloning
-  - KC-Decoder/Deep-Learning
-  - KC-decoder/Reinforcement-Learning
   - KC-decoder/CSE-676-Final-Project
