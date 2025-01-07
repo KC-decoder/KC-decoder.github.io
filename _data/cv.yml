@@ -11,34 +11,50 @@
 - title: Education
   type: time_table
   contents:
-    - title: MS. Computer Science
-      institution: University of Buffalo, Buffalo, New York, USA
-      year: 2023
+    - title: PhD Biomedical Engineering
+      institution: University at Buffalo, Buffalo, New York, USA
+      year: 2024 - Present
+      description:
+        - Working with Dr. Leslie Ying on MRI signal reconstruction and k-space analysis.
+        
+    - title: MS Computer Science
+      institution: University at Buffalo, Buffalo, New York, USA
+      year: 2024
       description:
         - Specialization in Artificial Intelligence.
-        
-    - title: MS. Electrical Engineering
-      institution: University of Buffalo, Buffalo, New York, USA
-      year: 2020
+
+    - title: MS Electrical Engineering
+      institution: University at Buffalo, Buffalo, New York, USA
+      year: 2024
       description:
         - Specialization in Wireless Communications.
 
     - title: B.Tech. Electronics and Communications Engineering
-      institution: West bengal University of Technology, Kolkata, West Bengal, India.
+      institution: West Bengal University of Technology, Kolkata, West Bengal, India
       year: 2015
 
 - title: Experience
   type: time_table
   contents:
+    - title: PhD Candidate
+      institution: Ying Lab, Department of Biomedical Engineering, University at Buffalo
+      year: 2024 - Present
+      description:
+        - Researching MRI signal reconstruction using Cold Diffusion Models for accelerated MRI.
+        - Developing novel Explainable AI (XAI) techniques like SHAP for k-space analysis.
+        - Writing a custom explainer for k-space and exploring other XAI techniques to adapt to MRI reconstruction.
+        - Collaborating with Dr. Seyyedali Hossainalipour on a multimodal model using EEG and Spectrogram data for seizure classification.
+
     - title: Researcher
-      institution: SAIR Lab, University of Buffalo
+      institution: SAIR Lab, University at Buffalo
       year: 2023 - Present
       description:
-        - Spearheaded research on Reinforcement Learning techniques in Unmanned Flight and Robotics, resulting in the development of advanced algorithms for autonomous flight control.
-        - Collaborated with cross-functional teams to integrate machine learning models into flight systems, demonstrating exceptional teamwork skills.
-        - Utilized Python, PyTorch, and TensorFlow to implement and optimize machine learning algorithms, showcasing proficiency in relevant programming languages and frameworks.
+        - Spearheaded research on Reinforcement Learning techniques in Unmanned Flight and Robotics.
+        - Collaborated with cross-functional teams to integrate machine learning models into flight systems.
+        - Utilized Python, PyTorch, and TensorFlow to implement and optimize machine learning algorithms.
+
     - title: Research Intern
-      institution: CERN & Tata Innstitute of Fundamental Research, Geneva, Switzerland 
+      institution: CERN & Tata Institute of Fundamental Research, Geneva, Switzerland
       year: 2021-2022
       description:
         - Assisted in Track Reconstruction Algorithm for proton-proton collisions using Nvidia-Tesla GPUs.
@@ -46,7 +62,7 @@
         - Optimized CUDA code for Allen at CERN, fully utilizing Tesla GPU cluster's compute capability.
 
     - title: Research Intern
-      institution: University at Buffalo - SUNY.
+      institution: University at Buffalo - SUNY
       year: 2021
       description:
         - Evaluated efficiency and speed of three niche Bayesian Network Structure Learning Algorithms.
@@ -57,33 +73,39 @@
       institution: Tata Consultancy Services
       year: 2015-2017
       description:
-        - Identified design requirements and solutions for international telecommunications Client's App Development.
+        - Identified design requirements and solutions for international telecommunications client’s app development.
         - Developed resource tracking application, optimizing multi-location resource management using Java, JDBC, and SQL.
-        - Created applications portal with Angular JS, CSS, Javascript, and Shell scripting.
+        - Created applications portal with AngularJS, CSS, JavaScript, and Shell scripting.
         - Managed client communication, coordinated load testing.
-
 
 - title: Open Source Projects
   type: time_table
   contents:
     - title: <a href="https://pypose.org/">PyPose</a>
       year: 2023-now
-      description: Pypose is a Differential Robotics Library with physics based optimization.
-
+      description: PyPose is a Differential Robotics Library with physics-based optimization.
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Reinforcement Learning.
+    - title: MRI Signal Reconstruction
+      items:
+        - k-space reconstruction for accelerated MRI using Cold Diffusion Models.
+        - Application of Explainable AI techniques like SHAP to MRI reconstruction.
+    - title: Multimodal Machine Learning
+      items:
+        - EEG and Spectrogram-based seizure classification.
+        - Data augmentation using Diffusion Models for EEG data.
+    - title: Reinforcement Learning
       items: 
         - Reinforcement Learning in Finance.
         - Reinforcement Learning in Robotics.
-        - Reinforcement Learning in Flight and UAV control
-    - title: Sentiment Analysis.
+        - Reinforcement Learning in Flight and UAV control.
+    - title: Sentiment Analysis
       items:
         - Large Language Models.
         - Open AI's Transformers module.
-        - Applications of LLMs in research
+        - Applications of LLMs in research.
 
 - title: Other Interests
   type: list
