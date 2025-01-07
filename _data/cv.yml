@@ -45,8 +45,20 @@
         - Writing a custom explainer for k-space and exploring other XAI techniques to adapt to MRI reconstruction.
         - Collaborating with Dr. Seyyedali Hossainalipour (Department of Electrical Engineering, UB) on a multimodal model using EEG and Spectrogram data for seizure classification.
 
+
+
+- title: Researcher
+      institution: Gradient Lab, Department of Electrical Engineering, University at Buffalo <a href="https://sites.google.com/view/gradient-lab>Gradient Lab</a>
+      year: 2024 - Present
+      description:
+        - Developing a multimodal model combining EEG and spectrogram data for seizure classification.
+        - Applying Diffusion Models for EEG data augmentation and evaluating their impact on multimodal model performance.
+        - Investigating the efficacy of advanced machine learning techniques for improving seizure detection accuracy.
+        - Designing experiments to measure the impact of augmented data on multimodal classification accuracy using Explainable AI aided Inferential Analysis. 
+
+
     - title: Researcher
-      institution: SAIR Lab, University at Buffalo
+      institution: SAIR Lab, University at Buffalo  <a href="https://sairlab.org/>SAIR Lab</a>
       year: 2023 - 2024
       description:
         - Spearheaded research on Reinforcement Learning techniques in Unmanned Flight and Robotics.
