@@ -43,11 +43,11 @@
         - Researching MRI signal reconstruction using Cold Diffusion Models for accelerated MRI.
         - Developing novel Explainable AI (XAI) techniques like SHAP for k-space analysis.
         - Writing a custom explainer for k-space and exploring other XAI techniques to adapt to MRI reconstruction.
-        - Collaborating with Dr. Seyyedali Hossainalipour on a multimodal model using EEG and Spectrogram data for seizure classification.
+        - Collaborating with Dr. Seyyedali Hossainalipour (Department of Electrical Engineering, UB) on a multimodal model using EEG and Spectrogram data for seizure classification.
 
     - title: Researcher
       institution: SAIR Lab, University at Buffalo
-      year: 2023 - Present
+      year: 2023 - 2024
       description:
         - Spearheaded research on Reinforcement Learning techniques in Unmanned Flight and Robotics.
         - Collaborated with cross-functional teams to integrate machine learning models into flight systems.
