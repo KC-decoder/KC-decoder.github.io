@@ -43,7 +43,15 @@
         - Researching MRI signal reconstruction using Cold Diffusion Models for accelerated MRI.
         - Developing novel Explainable AI (XAI) techniques like SHAP for k-space analysis.
         - Writing a custom explainer for k-space and exploring other XAI techniques to adapt to MRI reconstruction.
-        - Collaborating with Dr. Seyyedali Hossainalipour (Electrical HEREngineering) on a multimodal model using EEG and Spectrogram data for seizure classification.
+
+    - title: Researcher
+      institution: Gradient Lab, Department of Electrical Engineering, University at Buffalo
+      year: 2024 - Present
+      description:
+        - Developing a multimodal model combining EEG and spectrogram data for seizure classification.
+        - Applying Diffusion Models for EEG data augmentation and evaluating their impact on multimodal model performance.
+        - Investigating the efficacy of advanced machine learning techniques for improving seizure detection accuracy.
+        - Designing experiments to measure the impact of augmented data on classification accuracy.
 
     - title: Researcher
       institution: SAIR Lab, University at Buffalo
