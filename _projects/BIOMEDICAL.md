@@ -1,6 +1,6 @@
 ---
 layout: page
-title: XAI IN UNDERSAMPLED MRI K-SPACE RECONSTRUCTION
+title: XAI IN DIFFUSION MODELS
 description: 
 img: assets/img/cod.jpeg
 redirect: https://github.com/KC-decoder/MRI-K-space-Reconstruction

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HARMFUL BRAIN PATTERN IDENTIFICATION
+title: HARMFUL BRAIN PATTERNS
 description: 
 img: assets/img/quad.jpeg
 redirect: https://github.com/KC-decoder/Multimodal-Brain-Pattern-Identification_XAI
