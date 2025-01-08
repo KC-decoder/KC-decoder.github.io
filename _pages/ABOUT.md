@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Welcome to my corner of the digital universe! I am Koushani Chakrabarty, a seasoned professional with over 6 years of combined experience in academia and industry. My journey has been an exciting blend of Software Development, Reinforcement Learning, Robotics, Machine Learning, and Natural Language Processing.Currently I am in the nascent stages of pursuing my PhD on Biomedical Engineering from the University of Buffalo. I am advised by Dr Leslie Ying. 
+Welcome to my corner of the digital universe! I am Koushani Chakrabarty, a seasoned professional with over 8 years of combined experience in academia and industry. My journey has been an exciting blend of Software Development, Reinforcement Learning, Robotics, Machine Learning, and Natural Language Processing.Currently I am in the nascent stages of pursuing my PhD in Biomedical Engineering from the University of Buffalo. I am advised by Dr Leslie Ying. 
 
 My career has seen me dive into fascinating projects, from developing cutting-edge Machine Learning models for sentiment analysis and developing Reinforcement Learning algorithms for UAVs, optimizing workplace environments using IoT and Reinforcement Learning to signal reconstruction in Medical Imaging using various types of Imaging Data such as: MRI signals, EEG etc. I'm on a constant quest for knowledge and thrive on sharing insights with my peers, all the while fostering a world-class engineering culture.
 
