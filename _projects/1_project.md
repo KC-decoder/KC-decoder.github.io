@@ -1,7 +1,7 @@
 ---
 layout: page
-title: XAI IN UNDERSAMPLED MRI K-SPACE RECONSTRUCTION
-description: PhD Research Project for Candidacy
+title: 
+description: XAI IN UNDERSAMPLED MRI K-SPACE RECONSTRUCTION
 img: assets/img/cod.jpeg
 redirect: https://github.com/KC-decoder/MRI-K-space-Reconstruction
 importance: 1
