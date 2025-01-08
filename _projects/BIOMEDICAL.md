@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 
-description: XAI IN UNDERSAMPLED MRI K-SPACE RECONSTRUCTION
+title: XAI IN UNDERSAMPLED MRI K-SPACE RECONSTRUCTION
+description: 
 img: assets/img/cod.jpeg
 redirect: https://github.com/KC-decoder/MRI-K-space-Reconstruction
 importance: 1

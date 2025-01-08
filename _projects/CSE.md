@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 
-description: BEHAVIORAL CLONING
+title: BEHAVIORAL CLONING
+description: 
 img: assets/img/robo_arm.jpeg
 redirect: https://github.com/KC-decoder/Behavioral_Cloning
 importance: 3
