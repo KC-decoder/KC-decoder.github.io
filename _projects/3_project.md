@@ -1,11 +1,12 @@
 ---
 layout: page
-title: quad swarm rl
-description: SAIR LAB
-img: assets/img/quad.jpeg
-redirect: https://github.com/KC-decoder/Quad_Training
+title: Behavioral cloning
+description: MS CS Final Project
+img: assets/img/robo_arm.jpeg
+redirect: https://github.com/KC-decoder/Behavioral_Cloning
 importance: 3
 category: work
+giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Behavioral cloning
-description: 
-img: assets/img/robo_arm.jpeg
-redirect: https://github.com/KC-decoder/Behavioral_Cloning
+title: quad swarm rl
+description: GRADIENT LAB
+img: assets/img/quad.jpeg
+redirect: https://github.com/KC-decoder/Multimodal-Brain-Pattern-Identification_XAI
 importance: 2
 category: work
-giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.

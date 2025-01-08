@@ -1,9 +1,9 @@
 ---
 layout: page
-title: GAME REVIEW APPLICATION 
-description: TERM PROJECT FOR CSE-589
+title: XAI IN UNDERSAMPLED K-SPACE RECONSTRUCTION USING A COLD DIFFUSION MODEL 
+description: PhD Research Project for Candidacy
 img: assets/img/cod.jpeg
-redirect: https://github.com/KC-decoder/GAME-REVIEWS-ALGO
+redirect: https://github.com/KC-decoder/MRI-K-space-Reconstruction
 importance: 1
 category: work
 related_publications: 
