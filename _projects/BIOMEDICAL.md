@@ -2,7 +2,7 @@
 layout: page
 title: XAI IN DIFFUSION MODELS
 description: 
-img: assets/img/cod.jpeg
+img: assets/img/mri_image.jpg
 redirect: https://github.com/KC-decoder/MRI-K-space-Reconstruction
 importance: 1
 category: work
