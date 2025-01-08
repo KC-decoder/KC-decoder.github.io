@@ -1,6 +1,6 @@
 ---
 layout: page
-title: XAI IN UNDERSAMPLED K-SPACE RECONSTRUCTION USING A COLD DIFFUSION MODEL 
+title: XAI IN UNDERSAMPLED MRI K-SPACE RECONSTRUCTION
 description: PhD Research Project for Candidacy
 img: assets/img/cod.jpeg
 redirect: https://github.com/KC-decoder/MRI-K-space-Reconstruction

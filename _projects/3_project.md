@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Behavioral cloning
+title:BEHAVIORAL CLONING
 description: MS CS Final Project
 img: assets/img/robo_arm.jpeg
 redirect: https://github.com/KC-decoder/Behavioral_Cloning

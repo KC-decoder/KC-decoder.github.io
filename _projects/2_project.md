@@ -1,6 +1,6 @@
 ---
 layout: page
-title: quad swarm rl
+title: BRAIN PATTERN IDENTIFICATION
 description: GRADIENT LAB
 img: assets/img/quad.jpeg
 redirect: https://github.com/KC-decoder/Multimodal-Brain-Pattern-Identification_XAI
