@@ -2,7 +2,7 @@
 layout: about
 title: ABOUT
 permalink: /
-subtitle: PhD Candidate in Biomedical Engineering at University of Buffalo, New York
+subtitle: Graduate Research Assistant at University of Buffalo, New York
 
 profile:
   align: right
