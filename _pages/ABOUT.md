@@ -6,7 +6,7 @@ subtitle: Graduate Research Assistant at University of Buffalo, New York
 
 profile:
   align: right
-  image: koushani.jpeg
+  image: Koushani.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Buffalo, New York</p>
